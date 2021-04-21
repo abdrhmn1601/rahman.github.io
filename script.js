@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya rahman pada hari ini Rabu, 21 April 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Anniversary Yang ke - 63 hari masuk hari ini :)</b>", " ", "Kepada Sonya Putri Wulandari, semoga kamu selalu sehat, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Rahman ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Rahman pada hari ini Rabu, 21 April 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Anniversary Yang ke - 63 hari masuk hari ini :)</b>", " ", "Kepada Sonya Putri Wulandari, semoga kamu selalu sehat, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Rahman ganteng :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii cantik nya aku!!", "Happy Anniversary ya..", "Ciie udah 63 tahun aja, padahal baru aja beberapa hari kemarin kita kenal, Soalnya jauh dari kamu itu 1 Hari sama dengan 1 tahun hehe, semoga kita bisa saling menjaga perasaan, menjaga kepercayaan, dan bisa menghadapi semua masalah nantinya. Maaf ya kalo aku pernah buat kamu gak nyaman atau mararahin kamu aku agk maksud marahin kamu kok hehe", "Maaf juga aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)"],
+  strings: ["Haii cantik nya aku!!", "Happy Anniversary ya..", "Ciie udah 63 tahun aja, padahal baru aja beberapa hari kemarin kita kenal, Soalnya jauh dari kamu itu 1 Hari sama dengan 1 tahun hehe, semoga kita bisa saling menjaga perasaan, menjaga kepercayaan, dan bisa menghadapi semua masalah nantinya. Maaf ya kalo aku pernah buat kamu gak nyaman atau mararahin kamu aku agk maksud marahin kamu kok hehe...", "Maaf juga aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
