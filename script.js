@@ -146,14 +146,14 @@ const _slideEnam = function () {
 
 
 new TypeIt("#teks1", {
-  strings: ["Assalamualaikum Wr. Wb", " ", "Saya Adam Mukti Wibisono pada hari ini Minggu, 23 Agustus 2020 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Ulang Tahun Yang ke - 21</b>", " ", "Kepada Irna Imroatun, semoga kamu panjang umur, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Adam Mukti, Mas ganteng :)"],
+  strings: ["Assalamualaikum Wr. Wb", " ", "Saya rahman pada hari ini Rabu, 21 April 2021 dengan sepenuh hati mengucapkan", " ", "<b>Selamat Anniversary Yang ke - 63 hari masuk hari ini :)</b>", " ", "Kepada Sonya Putri Wulandari, semoga kamu selalu sehat, dan bahagia selalu. Aamiin. Sekian surat pernyataan dari saya", , " ", "Wassalamualakaikum Wr. Wb", " ", "- Rahman ganteng :)"],
   startDelay: 4000,
   speed: 75,
   waitUntilVisible: true
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii cabi!!", "Happy Birthday ya..", " ", "Ciie udah 21 tahun, padahal baru aja beberapa hari kemarin umur kita sama hehe, semoga di umur yang sekarang kamu bisa jadi pribadi yang lebih baik lagi, lebih rajin, lebih sholehah, dan lebih berbakti.", "Maaf ya aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)", "Sekali lagi, Selamat Ulang Tahun ya. Semoga semua impian, keinginan, dan harapan kamu bisa tercapai, Aamiin."],
+  strings: ["Haii cantik nya aku!!", "Happy Anniversary ya..", " ", "Ciie udah 63 tahun aja, padahal baru aja beberapa hari kemarin kita kenal, Soalnya jauh dari kamu itu 1 Hari sama dengan 1 tahun hehe, semoga kita bisa saling menjaga perasaan, menjaga kepercayaan, dan bisa menghadapi semua masalah nantinya, Lakuin aja apa yang kau suka yang penting kamu seneng asal jangan berbagi perasaan, aku gak suka berbagi. Maaf ya kalo aku pernah buat kamu gak nyaman atau mararahin kamu aku agk maksud marahin kamu kok hehe", "Maaf juga aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
@@ -161,7 +161,7 @@ new TypeIt("#teks2", {
 
 
 new TypeIt("#trims", {
-  strings: ["Terimakasih."],
+  strings: ["I LOVE YOU SONYA."],
   startDelay: 2000,
   speed: 150,
   loop: false,
