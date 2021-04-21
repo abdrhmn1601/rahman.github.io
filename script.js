@@ -153,7 +153,7 @@ new TypeIt("#teks1", {
 }).go();
 
 new TypeIt("#teks2", {
-  strings: ["Haii cantik nya aku!!", "Happy Anniversary ya..", " ", "Ciie udah 63 tahun aja, padahal baru aja beberapa hari kemarin kita kenal, Soalnya jauh dari kamu itu 1 Hari sama dengan 1 tahun hehe, semoga kita bisa saling menjaga perasaan, menjaga kepercayaan, dan bisa menghadapi semua masalah nantinya, Lakuin aja apa yang kau suka yang penting kamu seneng asal jangan berbagi perasaan, aku gak suka berbagi. Maaf ya kalo aku pernah buat kamu gak nyaman atau mararahin kamu aku agk maksud marahin kamu kok hehe", "Maaf juga aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)"],
+  strings: ["Haii cantik nya aku!!", "Happy Anniversary ya..", "Ciie udah 63 tahun aja, padahal baru aja beberapa hari kemarin kita kenal, Soalnya jauh dari kamu itu 1 Hari sama dengan 1 tahun hehe, semoga kita bisa saling menjaga perasaan, menjaga kepercayaan, dan bisa menghadapi semua masalah nantinya. Maaf ya kalo aku pernah buat kamu gak nyaman atau mararahin kamu aku agk maksud marahin kamu kok hehe", "Maaf juga aku gabisa kasih surprise yang romantis. Cuma ini yang bisa aku kasih ke kamu, aku harap kamu suka ya :)"],
   startDelay: 2000,
   speed: 75,
   waitUntilVisible: true
